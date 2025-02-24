@@ -6,3 +6,5 @@ This project only works on earlier Wheelwriter models, the ones that internally 
 The MCU connects to the J1P "Feature" connector on the Wheelwriter's Printer Board. See the schematic for details.
 <p align="center"><img src="Wheelwriter%20Interface.jpg"/>
 <p align="center">Wheelwriter Interface</p><br>
+<p align="center"><img src="/images/J1P%20Feature%20Connector.jpg"/>
+<p align="center">Interface connection to J1P "Feature" Connector in the Wheelwriter Printer Board</p><br>
